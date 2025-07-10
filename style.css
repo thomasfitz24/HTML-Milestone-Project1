@@ -5,3 +5,25 @@ body {
   text-align: center;
   padding-top: 100px;
 }
+header {
+  background-color: whtie; /
+  color: black;
+  padding: 20px 40px;
+  text-align: left;
+}
+
+.header-top {
+  display: fleex; 
+  justify-content: space-between; 
+  align-items: center;
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.tagline {
+  font-size: 1rem;
+  font-style: italic;
+}
