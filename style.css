@@ -60,3 +60,10 @@ nav a {
     padding-top: 60px;
   }
 }
+.hero-image {
+  width: 100%;
+  max-width: 1200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
