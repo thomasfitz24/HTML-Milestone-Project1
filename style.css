@@ -182,3 +182,7 @@ html {
   line-height: 1.8;
   color: #ddd;
 }
+.about-contact-btn {
+  text-align: center;
+  margin: 40px 0;
+}
