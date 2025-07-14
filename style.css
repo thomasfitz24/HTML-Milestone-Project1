@@ -377,4 +377,62 @@ html {
 .order-btn:hover {
   background-color: #333;
 }
+/* Only affects Our Products page layout */
+.full-products-page .product-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two items per row */
+  gap: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.full-products-page .product-item {
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  color: black;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.full-products-page .product-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+.full-products-page .product-item h3 {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+
+.full-products-page .product-item p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.full-products-page .order-btn {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background 0.3s ease;
+}
+
+.full-products-page .order-btn:hover {
+  background-color: #333;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .full-products-page .product-grid {
+    grid-template-columns: 1fr;
+  }
+}
 
