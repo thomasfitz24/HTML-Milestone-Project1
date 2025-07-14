@@ -187,58 +187,50 @@ html {
   margin: 40px 0;
 }
 .contact-section {
-  padding: 60px 20px;
-  max-width: 700px;
-  margin: 0 auto;
   background-color: #111;
-  color: white;
+  padding: 60px 20px;
   text-align: center;
 }
 
-.contact-heading {
+.contact-section h1 {
   font-size: 2.5rem;
-  margin-bottom: 20px;
-}
-
-.contact-description {
-  font-size: 1.2rem;
   margin-bottom: 30px;
-  color: #ccc;
+  color: white;
 }
 
-.contact-form {
+.contact-section form {
+  max-width: 600px;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   gap: 20px;
 }
 
-.contact-form input,
-.contact-form textarea {
-  padding: 15px;
+.contact-section input,
+.contact-section textarea {
+  padding: 12px;
   font-size: 1rem;
   border: none;
-  border-radius: 5px;
-  background-color: #222;
-  color: white;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.contact-section textarea {
   resize: vertical;
+  min-height: 150px;
 }
 
-.contact-form input::placeholder,
-.contact-form textarea::placeholder {
-  color: #aaa;
-}
-
-.contact-submit {
-  padding: 15px;
+.contact-section button {
+  padding: 12px 24px;
   font-size: 1rem;
-  color: white;
   background-color: black;
+  color: white;
   border: none;
-  border-radius: 5px;
+  border-radius: 4px;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
 
-.contact-submit:hover {
+.contact-section button:hover {
   background-color: #333;
 }
