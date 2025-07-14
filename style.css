@@ -153,3 +153,32 @@ html {
     font-size: 0.9rem;
   }
 }
+.about-container {
+  max-width: 1000px;
+  margin: 60px auto;
+  padding: 0 20px;
+  text-align: left;
+}
+
+.about-heading {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 40px;
+  color: white;
+}
+
+.about-section {
+  margin-bottom: 50px;
+}
+
+.about-section h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  color: white;
+}
+
+.about-section p {
+  font-size: 1.125rem;
+  line-height: 1.8;
+  color: #ddd;
+}
