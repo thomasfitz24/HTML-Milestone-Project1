@@ -144,16 +144,6 @@ footer {
   font-size: 0.9rem;
 }
 
-.footer-right a {
-  color: white;
-  margin-left: 20px;
-  text-decoration: none;
-  font-size: 0.9rem;
-}
-
-.footer-right a:hover {
-  text-decoration: underline;
-}
 
 @media (max-width: 600px) {
   .footer-container {
@@ -166,8 +156,19 @@ footer {
     margin-left: 10px;
     margin-right: 10px;
   }
+  
+}
+.footer-right a {
+  color: #ccc;
+  text-decoration: none;
+  margin-left: 20px;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 
+.footer-right a:hover {
+  color: white;
+  text-shadow: 0 0 8px white;
+}
 
 /* Responsive header layout */
 @media (max-width: 768px) {
