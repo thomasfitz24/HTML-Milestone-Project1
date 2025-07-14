@@ -130,6 +130,44 @@ footer {
   background-color: #111;
   color: white;
 }
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 20px;
+  background-color: #111;
+  color: white;
+}
+
+.footer-left {
+  font-size: 0.9rem;
+}
+
+.footer-right a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.footer-right a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .footer-container {
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+  }
+
+  .footer-right a {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
 
 /* Responsive header layout */
 @media (max-width: 768px) {
