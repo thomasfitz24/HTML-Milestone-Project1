@@ -309,4 +309,29 @@ html {
   background-color: white;
   color: black;
 }
+.product-description {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.product-description p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.view-products-btn {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 1rem;
+  color: white;
+  background-color: black;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.view-products-btn:hover {
+  background-color: #333;
+}
 
