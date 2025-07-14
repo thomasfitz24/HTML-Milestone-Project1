@@ -504,5 +504,49 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+/* Universal focus style */
+a:focus,
+button:focus,
+.learn-more-btn:focus,
+.view-products-btn:focus,
+.order-btn:focus {
+  outline: 2px solid white;
+  outline-offset: 4px;
+  box-shadow: 0 0 10px white;
+}
+/* Focus style for header (white background) */
+header a:focus,
+header button:focus {
+  outline: 2px solid black;
+  outline-offset: 4px;
+  box-shadow: 0 0 6px black;
+}
+
+/* Focus style for dark sections (black or dark background buttons) */
+a:focus,
+button:focus,
+.learn-more-btn:focus,
+.view-products-btn:focus,
+.order-btn:focus {
+  outline: 2px solid white;
+  outline-offset: 4px;
+  box-shadow: 0 0 10px white;
+}
+header a:hover,
+header button:hover {
+  box-shadow: 0 0 6px black;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
 
 

@@ -9,39 +9,37 @@
 <body>
   <header>
     <div class="header-bar">
-      <a href="index.html">
+      <a href="index.html" aria-label="Go to home page">
         <img src="images/Logo.png" alt="Loom & Light Logo" class="logo-img">
       </a>
-      <nav>
+      <nav aria-label="Main navigation">
         <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="our products.html">Our Products</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="index.html" tabindex="0">Home</a></li>
+          <li><a href="about.html" tabindex="0">About</a></li>
+          <li><a href="our products.html" tabindex="0">Our Products</a></li>
+          <li><a href="contact.html" tabindex="0">Contact</a></li>
         </ul>
       </nav>
     </div>
   </header>
 
-  <section class="thankyou-section">
-    <h1>Thank You for Contacting Loom & Light</h1>
+  <main class="thankyou-section" role="main" aria-labelledby="thank-you-heading">
+    <h1 id="thank-you-heading">Thank You for Contacting Loom & Light</h1>
     <p>We appreciate your message and will get back to you within 24–48 hours. In the meantime, feel free to explore our other pages.</p>
-    <a href="index.html" class="back-home-btn">See Our Other Pages</a>
-  </section>
+    <a href="index.html" class="back-home-btn" tabindex="0">See Our Other Pages</a>
+  </main>
 
-   <footer>
+  <footer role="contentinfo">
     <div class="footer-container">
       <div class="footer-left">
         <p>© 2025 Loom & Light. All rights reserved.</p>
       </div>
-      <div class="footer-right">
-        <a href="#" target="_blank">Instagram</a>
-        <a href="#" target="_blank">Pinterest</a>
-        <a href="#" target="_blank">Facebook</a>
+      <div class="footer-right footer-socials">
+        <a href="#" target="_blank" aria-label="Visit our Instagram page" tabindex="0">Instagram</a>
+        <a href="#" target="_blank" aria-label="Visit our Pinterest page" tabindex="0">Pinterest</a>
+        <a href="#" target="_blank" aria-label="Visit our Facebook page" tabindex="0">Facebook</a>
       </div>
     </div>
   </footer>
-  
 </body>
 </html>
-
