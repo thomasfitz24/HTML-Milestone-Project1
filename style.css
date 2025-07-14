@@ -435,4 +435,9 @@ html {
     grid-template-columns: 1fr;
   }
 }
+.logo-img {
+  height: 400px;
+  width: auto;
+  display: block;
+}
 
