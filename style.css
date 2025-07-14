@@ -31,7 +31,6 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
 }
 
 .header-bar {
@@ -42,7 +41,7 @@ header {
   background-color: white;
 }
 .logo-img {
-  height: 400px;
+  height: 200px;
   width: auto;
 }
 
