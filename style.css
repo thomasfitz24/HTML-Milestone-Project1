@@ -90,7 +90,7 @@ nav a {
   text-align: center;
   padding: 40px 20px;
   max-width: 90%;
-  border-radius: 8px;
+  border-radius: 10px;
 }
 
 .main-heading {
@@ -206,6 +206,13 @@ footer {
   text-align: center;
 }
 
+.contact-info-block {
+  margin-bottom: 40px;
+  font-size: 1.1rem;
+  color: #ccc;
+  line-height: 1.8;
+}
+
 .contact-section h1 {
   font-size: 2.5rem;
   margin-bottom: 30px;
@@ -213,11 +220,18 @@ footer {
 }
 
 .contact-section form {
-  max-width: 600px;
-  margin: 0 auto;
+  max-width: 700px;
+  margin:  auto;
+  margin-top: 10px;
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 10px;
+}
+.contact-note {
+  display: block;
+  margin-bottom: 30px;
+  font-size: 1rem;
+  color: #ccc;
 }
 
 .contact-section input,
