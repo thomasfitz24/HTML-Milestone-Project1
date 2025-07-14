@@ -251,12 +251,26 @@ footer {
   color: #ccc;
   line-height: 1.8;
 }
+.contact-info-block p {
+  color: white;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
 
-.contact-section h1 {
-  font-size: 2.5rem;
-  margin-bottom: 30px;
+.contact-info-block a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-info-block a:hover,
+.contact-info-block a:focus {
+  color: white;
+  text-decoration: underline; 
+}
+.contact-info-block a:visited {
   color: white;
 }
+
 
 .contact-section form {
   max-width: 700px;
