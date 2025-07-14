@@ -37,11 +37,11 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 30px;
+  padding: 20px 0px;
   background-color: white;
 }
 .logo-img {
-  height: 200px;
+  height: 150px;
   width: auto;
 }
 
@@ -63,7 +63,7 @@ nav a {
   text-decoration: none;
   color: black;
   font-weight: 500;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 .hero-banner {
