@@ -20,14 +20,19 @@ let responsive styles implemented and tested on iPhone and Samsung devices with 
 <img width="602" height="819" alt="Screenshot 2025-07-15 at 17 10 53" src="https://github.com/user-attachments/assets/6d61cc34-4607-446d-b255-a66e629b4958" />
 <img width="532" height="799" alt="Screenshot 2025-07-15 at 17 02 28" src="https://github.com/user-attachments/assets/95397601-a6cf-4042-9e1e-b6d38b07a262" />
 <img width="601" height="759" alt="Screenshot 2025-07-15 at 17 02 19" src="https://github.com/user-attachments/assets/db205c31-3079-416f-b74b-b7116fe286dd" />
+
 - Meaningful aria-labels on navigation and interactive elements.
-<img width="638" height="97" alt="Screenshot 2025-07-15 at 21 26 15" src="https://github.com/user-attachments/assets/e6ebd1f4-0b46-4f06-b10c-02391a94ae41" />
+- <img width="638" height="97" alt="Screenshot 2025-07-15 at 21 26 15" src="https://github.com/user-attachments/assets/e6ebd1f4-0b46-4f06-b10c-02391a94ae41" />
+
 - Keyboard navigable with clear focus glow and tab order.
 <img width="514" height="149" alt="Screenshot 2025-07-15 at 20 21 40" src="https://github.com/user-attachments/assets/bd1431d4-c07b-42eb-a658-eed510781046" />
+
 - Alt text provided on all images.
 <img width="538" height="422" alt="Screenshot 2025-07-15 at 20 25 43" src="https://github.com/user-attachments/assets/1cbd92a9-8aa9-4ff9-b682-66c0ef912faa" />
+
 - Hover effects and underlines on contact info for clarity and usability.
 - <img width="305" height="48" alt="Screenshot 2025-07-15 at 20 26 23" src="https://github.com/user-attachments/assets/d59004ef-01e7-4e80-a6a1-e1bcc355b4d2" />
+
 - **Visual & UX Enhancements**  
   - Glow effect on social media icons on hover.
   -   <img width="364" height="121" alt="Screenshot 2025-07-15 at 20 28 56" src="https://github.com/user-attachments/assets/9b33d3a2-b0c5-4da2-bba7-b58338be3acf" />
