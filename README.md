@@ -139,51 +139,75 @@ Below is a summary of the key git commit messages documenting the step-by-step p
 36. Created redirect thank you page and copied header/footer from other pages  
 37. Added thank-you message and home button to re.thankyou.html page  
 38. Styled thank you page with centered layout, white background, black text
-39.  
+39.  <img width="1904" height="985" alt="Screenshot 2025-07-14 at 17 16 16" src="https://github.com/user-attachments/assets/1b227509-7131-4328-b5e8-8296d5abe975" />
 40. Changed 'Projects' to 'Our Products' in site navigation
-41. 
-42. Created Our Products page and linked it in navigation  
-43. Linked 'Our Products' page in all headers across site  
-44. Push: creating the product section on the main page  
-45. Push: added styling to the product section on the main page  
-46. Images currently not loading after edit code, working on a fix  
-47. Put all products on one line; images still not displaying  
-48. Got the product images displaying correctly and updated CSS to reduce spacing  
-49. Added 'View Products' button with redirect under Our Products section  
-50. Added button styling; troubleshooting incorrect redirect on product button  
-51. Fixed incorrect file name for our products page; button now redirects  
-52. Styled all product sections on the Our Products page for consistent layout  
-53. All product images now working; preparing to adjust product styling  
-54. Updated product section styling for improved layout; working towards consistency  
-55. Edited 'our-products.html' to wrap product section with unique class container  
-56. Added isolated CSS styling for two products per row on Our Products page  
-57. Added logo and updated site files  
-58. Added logo to all pages  
-59. Added logo styling across site. Added logo to all pages  
-60. Attempted to change logo styling; adjustments not yet successful  
-61. Working on the layout of the new header: aligned logo and navigation properly  
-62. Updated header layout — looks way better now  
-63. Adjusted header layout; starting work on footer styling  
-64. Added contact section to the bottom of the main page  
-65. Added note about phone lines to contact page  
-66. Added contact details section with email, phone number, and address to footer  
-67. Updated footer: added copyright to bottom left and social links to bottom right  
-68. Added styling to the footer including social link hover glow effect  
-69. Improved accessibility: custom focus outlines for header and dark background  
-70. Updated contact info link colors to white and removed hover glow  
-71. Final commit: Milestone 1 project complete with accessibility, layout, and styling  
-72. Renamed file to 'our-products.html' to follow correct naming conventions  
-73. Created interactive video popup with modal and styling  
-74. Added the video styling for popup modal  
-75. All video popup functionality implemented and working as intended  
-76. Enhance video modal accessibility with ARIA roles and focus control  
-77. Moved 'Watch Our Story' button into hero overlay beside 'Learn More'  
-78. Cleaned about.html: removed unnecessary roles and XHTML-style slashes  
-79. Cleaned contact.html: removed invalid roles and fixed void element formatting  
-80. Fixed invalid image filename by removing space in path (our-story.png)  
-81. Cleaned our-products.html: removed invalid footer role, ensured HTML5 validation  
-82. Cleaned thankyou.html for W3C validation: removed redundant roles, fixed formatting  
-83. Create README.md  
+41. <img width="1916" height="309" alt="Screenshot 2025-07-14 at 17 18 41" src="https://github.com/user-attachments/assets/4ed8a935-ba02-4eb9-9f61-162ff34ef5c2" />
+42. Created Our Products page and linked it in navigation
+44. Linked 'Our Products' page in all headers across site  
+45. Push: creating the product section on the main page
+46. <img width="1925" height="477" alt="Screenshot 2025-07-14 at 17 26 29" src="https://github.com/user-attachments/assets/f26a8f8d-fd03-4dd9-81e4-aacb1bf144a8" />
+47. Push: added styling to the product section on the main page
+<img width="1913" height="732" alt="Screenshot 2025-07-14 at 17 28 11" src="https://github.com/user-attachments/assets/5ee0e662-a027-4ce0-9c0d-1b48c49f2c93" />
+49. Images currently not loading after edit code, working on a fix
+51. Put all products on one line; images still not displaying
+<img width="1916" height="993" alt="Screenshot 2025-07-14 at 18 12 17" src="https://github.com/user-attachments/assets/66ca4817-ee33-489a-97db-ef70c68b8acf" />
+53. Got the product images displaying correctly and updated CSS to reduce spacing
+<img width="1909" height="431" alt="Screenshot 2025-07-14 at 18 27 40" src="https://github.com/user-attachments/assets/0e9fa388-52e3-431f-b26c-8ae85949c08b" />
+55. Added 'View Products' button with redirect under Our Products section
+<img width="1898" height="475" alt="Screenshot 2025-07-14 at 18 34 54" src="https://github.com/user-attachments/assets/07c0e648-73f6-47e8-9b7f-a36591f1945c" />
+57. Added button styling; troubleshooting incorrect redirect on product button
+<img width="1964" height="563" alt="Screenshot 2025-07-14 at 18 36 12" src="https://github.com/user-attachments/assets/4f0047df-0e6f-40da-9aac-9e12795749d1" />
+59. Fixed incorrect file name for our products page; button now redirects  
+60. Styled all product sections on the Our Products page for consistent layout
+<img width="1868" height="650" alt="Screenshot 2025-07-14 at 19 00 27" src="https://github.com/user-attachments/assets/3729caa3-31e1-42e8-b71f-bb328d465db4" />
+<img width="1916" height="980" alt="Screenshot 2025-07-14 at 18 54 26" src="https://github.com/user-attachments/assets/10de3f1b-3531-484b-8a05-f56e178a96fd" />
+<img width="1915" height="978" alt="Screenshot 2025-07-14 at 18 54 16" src="https://github.com/user-attachments/assets/ce7229a1-940c-4fba-a811-de6617264e78" />
+<img width="1919" height="615" alt="Screenshot 2025-07-14 at 18 50 30" src="https://github.com/user-attachments/assets/837bdf0c-6564-48dd-913a-88ba9d36c2ca" />
+<img width="1923" height="1004" alt="Screenshot 2025-07-14 at 18 46 39" src="https://github.com/user-attachments/assets/c89ab4c3-f345-42fb-ab90-f71350f770bf" />
+62. All product images now working; preparing to adjust product styling  
+63. Updated product section styling for improved layout; working towards consistency
+65. Edited 'our-products.html' to wrap product section with unique class container  
+66. Added isolated CSS styling for two products per row on Our Products page
+<img width="1906" height="983" alt="Screenshot 2025-07-14 at 19 18 51" src="https://github.com/user-attachments/assets/b339baeb-7e02-4fb3-bb9b-41bf7baf705d" />
+<img width="1920" height="996" alt="Screenshot 2025-07-14 at 19 14 29" src="https://github.com/user-attachments/assets/0d6bb4f5-67d0-415e-bf20-034ea3e46c4d" />
+68. Added logo and updated site files  
+69. Added logo to all pages
+<img width="1856" height="706" alt="Screenshot 2025-07-14 at 19 55 11" src="https://github.com/user-attachments/assets/848de88b-667e-4aaf-be71-e39151496536" />
+71. Added logo styling across site. Added logo to all pages  
+72. Attempted to change logo styling; adjustments not yet successful  
+73. Working on the layout of the new header: aligned logo and navigation properly  
+74. Updated header layout — looks way better now
+<img width="1912" height="956" alt="Screenshot 2025-07-14 at 20 41 52" src="https://github.com/user-attachments/assets/c90c51a5-29ac-46cb-8b41-3c74ed83d096" />
+<img width="1909" height="458" alt="Screenshot 2025-07-14 at 20 23 17" src="https://github.com/user-attachments/assets/4860a860-b3e3-4538-b69c-d4fff67f44e4" />
+<img width="1887" height="517" alt="Screenshot 2025-07-14 at 20 14 53" src="https://github.com/user-attachments/assets/ae9448b5-72f0-4b67-949b-d885cc247a94" />
+76. Adjusted header layout; starting work on footer styling  
+77. Added contact section to the bottom of the main page  
+78. Added note about phone lines to contact page
+<img width="1916" height="715" alt="Screenshot 2025-07-14 at 20 47 54" src="https://github.com/user-attachments/assets/6168ba8c-ed8a-431e-a5e4-cc007624208d" />
+79. Added contact details section with email, phone number, and address to contact section
+ <img width="1928" height="779" alt="Screenshot 2025-07-14 at 21 07 18" src="https://github.com/user-attachments/assets/44c7056d-571e-4727-8cfd-46a57583ce50" />
+81. Updated footer: added copyright to bottom left and social links to bottom right 
+83. Added styling to the footer including social link hover glow effect
+<img width="1856" height="953" alt="Screenshot 2025-07-14 at 21 27 07" src="https://github.com/user-attachments/assets/1b930a13-2d1d-4774-a696-2a9ab9cf71df" />
+<img width="2092" height="189" alt="Screenshot 2025-07-14 at 21 11 04" src="https://github.com/user-attachments/assets/a39a0ea1-cc52-43aa-ab38-25dfec8feec4" />
+85. Improved accessibility: custom focus outlines for header and dark background  
+86. Updated contact info link colors to white and removed hover glow
+<img width="1856" height="953" alt="Screenshot 2025-07-14 at 21 27 07" src="https://github.com/user-attachments/assets/045433af-99aa-4287-a7f4-1364e575d71e" />
+88. Final commit: Milestone 1 project complete with accessibility, layout, and styling  
+89. Renamed file to 'our-products.html' to follow correct naming conventions  
+90. Created interactive video popup with modal and styling
+91  Added the video styling for popup modal 
+<img width="1134" height="647" alt="Screenshot 2025-07-15 at 16 13 10" src="https://github.com/user-attachments/assets/4dde135b-d329-4e73-805e-7776b99bcfa3" />
+93. All video popup functionality implemented and working as intended  
+94. Enhance video modal accessibility with ARIA roles and focus control  
+95. Moved 'Watch Our Story' button into hero overlay beside 'Learn More'
+<img width="837" height="493" alt="Screenshot 2025-07-15 at 16 31 37" src="https://github.com/user-attachments/assets/6b3cc5a7-0211-4cb2-8390-3356f926e01a" />
+97. Cleaned about.html: removed unnecessary roles and XHTML-style slashes  
+98. Cleaned contact.html: removed invalid roles and fixed void element formatting  
+99. Fixed invalid image filename by removing space in path (our-story.png)  
+100. Cleaned our-products.html: removed invalid footer role, ensured HTML5 validation  
+101. Cleaned thankyou.html for W3C validation: removed redundant roles, fixed formatting  
+102. Create README.md  
 
 ---
 
