@@ -126,59 +126,63 @@ Below is a summary of the key git commit messages documenting the step-by-step p
 <img width="1918" height="974" alt="Screenshot 2025-07-14 at 16 45 55" src="https://github.com/user-attachments/assets/594b7a8c-785b-4416-9766-64b969024dfd" />
 <img width="1918" height="995" alt="Screenshot 2025-07-14 at 16 38 07" src="https://github.com/user-attachments/assets/af980718-fc10-42de-9bb3-d2397343dffa" />
 <img width="1922" height="992" alt="Screenshot 2025-07-12 at 22 33 47" src="https://github.com/user-attachments/assets/b578eaa5-9c03-44f8-a429-bbb33ed2379c" />
-
-24. Added Contact Us button to About page linking to contact.html  
-25. Copied header and footer structure from existing pages to contact.html  
-26. Created contact.html page with contact form layout; styling to be added  
-27. Added styling to contact.html for improved layout and design  
-28. Linked contact.html to header navigation  
-29. Updated contact form to redirect to thank you page and improved styling  
-30. Created redirect thank you page and copied header/footer from other pages  
-31. Added thank-you message and home button to re.thankyou.html page  
-32. Styled thank you page with centered layout, white background, black text  
-33. Changed 'Projects' to 'Our Products' in site navigation  
-34. Created Our Products page and linked it in navigation  
-35. Linked 'Our Products' page in all headers across site  
-36. Push: creating the product section on the main page  
-37. Push: added styling to the product section on the main page  
-38. Images currently not loading after edit code, working on a fix  
-39. Put all products on one line; images still not displaying  
-40. Got the product images displaying correctly and updated CSS to reduce spacing  
-41. Added 'View Products' button with redirect under Our Products section  
-42. Added button styling; troubleshooting incorrect redirect on product button  
-43. Fixed incorrect file name for our products page; button now redirects  
-44. Styled all product sections on the Our Products page for consistent layout  
-45. All product images now working; preparing to adjust product styling  
-46. Updated product section styling for improved layout; working towards consistency  
-47. Edited 'our-products.html' to wrap product section with unique class container  
-48. Added isolated CSS styling for two products per row on Our Products page  
-49. Added logo and updated site files  
-50. Added logo to all pages  
-51. Added logo styling across site. Added logo to all pages  
-52. Attempted to change logo styling; adjustments not yet successful  
-53. Working on the layout of the new header: aligned logo and navigation properly  
-54. Updated header layout — looks way better now  
-55. Adjusted header layout; starting work on footer styling  
-56. Added contact section to the bottom of the main page  
-57. Added note about phone lines to contact page  
-58. Added contact details section with email, phone number, and address to footer  
-59. Updated footer: added copyright to bottom left and social links to bottom right  
-60. Added styling to the footer including social link hover glow effect  
-61. Improved accessibility: custom focus outlines for header and dark background  
-62. Updated contact info link colors to white and removed hover glow  
-63. Final commit: Milestone 1 project complete with accessibility, layout, and styling  
-64. Renamed file to 'our-products.html' to follow correct naming conventions  
-65. Created interactive video popup with modal and styling  
-66. Added the video styling for popup modal  
-67. All video popup functionality implemented and working as intended  
-68. Enhance video modal accessibility with ARIA roles and focus control  
-69. Moved 'Watch Our Story' button into hero overlay beside 'Learn More'  
-70. Cleaned about.html: removed unnecessary roles and XHTML-style slashes  
-71. Cleaned contact.html: removed invalid roles and fixed void element formatting  
-72. Fixed invalid image filename by removing space in path (our-story.png)  
-73. Cleaned our-products.html: removed invalid footer role, ensured HTML5 validation  
-74. Cleaned thankyou.html for W3C validation: removed redundant roles, fixed formatting  
-75. Create README.md  
+24. Added Contact Us button to About page linking to contact.html
+<img width="1311" height="353" alt="Screenshot 2025-07-14 at 16 49 47" src="https://github.com/user-attachments/assets/5396a877-106b-408d-9333-302fedc2423f" />
+27. Copied header and footer structure from existing pages to contact.html
+<img width="1917" height="293" alt="Screenshot 2025-07-14 at 16 51 08" src="https://github.com/user-attachments/assets/4f222a1c-ae42-492f-9d3b-36ef1b666115" />
+29. Created contact.html page with contact form layout; styling to be added  
+30. Added styling to contact.html for improved layout and design
+<img width="1900" height="940" alt="Screenshot 2025-07-14 at 16 57 30" src="https://github.com/user-attachments/assets/adbee2ee-8021-42e0-ae7c-44cedec94abd" />
+32. Linked contact.html to header navigation  
+33. Updated contact form to redirect to thank you page and improved styling
+<img width="1916" height="846" alt="Screenshot 2025-07-14 at 17 05 38" src="https://github.com/user-attachments/assets/9c439816-2ca1-4d2e-a2e2-ad3d6642641a" />
+36. Created redirect thank you page and copied header/footer from other pages  
+37. Added thank-you message and home button to re.thankyou.html page  
+38. Styled thank you page with centered layout, white background, black text
+39.  
+40. Changed 'Projects' to 'Our Products' in site navigation  
+41. Created Our Products page and linked it in navigation  
+42. Linked 'Our Products' page in all headers across site  
+43. Push: creating the product section on the main page  
+44. Push: added styling to the product section on the main page  
+45. Images currently not loading after edit code, working on a fix  
+46. Put all products on one line; images still not displaying  
+47. Got the product images displaying correctly and updated CSS to reduce spacing  
+48. Added 'View Products' button with redirect under Our Products section  
+49. Added button styling; troubleshooting incorrect redirect on product button  
+50. Fixed incorrect file name for our products page; button now redirects  
+51. Styled all product sections on the Our Products page for consistent layout  
+52. All product images now working; preparing to adjust product styling  
+53. Updated product section styling for improved layout; working towards consistency  
+54. Edited 'our-products.html' to wrap product section with unique class container  
+55. Added isolated CSS styling for two products per row on Our Products page  
+56. Added logo and updated site files  
+57. Added logo to all pages  
+58. Added logo styling across site. Added logo to all pages  
+59. Attempted to change logo styling; adjustments not yet successful  
+60. Working on the layout of the new header: aligned logo and navigation properly  
+61. Updated header layout — looks way better now  
+62. Adjusted header layout; starting work on footer styling  
+63. Added contact section to the bottom of the main page  
+64. Added note about phone lines to contact page  
+65. Added contact details section with email, phone number, and address to footer  
+66. Updated footer: added copyright to bottom left and social links to bottom right  
+67. Added styling to the footer including social link hover glow effect  
+68. Improved accessibility: custom focus outlines for header and dark background  
+69. Updated contact info link colors to white and removed hover glow  
+70. Final commit: Milestone 1 project complete with accessibility, layout, and styling  
+71. Renamed file to 'our-products.html' to follow correct naming conventions  
+72. Created interactive video popup with modal and styling  
+73. Added the video styling for popup modal  
+74. All video popup functionality implemented and working as intended  
+75. Enhance video modal accessibility with ARIA roles and focus control  
+76. Moved 'Watch Our Story' button into hero overlay beside 'Learn More'  
+77. Cleaned about.html: removed unnecessary roles and XHTML-style slashes  
+78. Cleaned contact.html: removed invalid roles and fixed void element formatting  
+79. Fixed invalid image filename by removing space in path (our-story.png)  
+80. Cleaned our-products.html: removed invalid footer role, ensured HTML5 validation  
+81. Cleaned thankyou.html for W3C validation: removed redundant roles, fixed formatting  
+82. Create README.md  
 
 ---
 
