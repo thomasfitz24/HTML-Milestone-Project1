@@ -92,6 +92,10 @@ nav a {
   max-width: 90%;
   border-radius: 10px;
 }
+.hero-overlay a,
+.hero-overlay button {
+  margin: 10px 5px;
+}
 
 .main-heading {
   font-size: 3rem;
