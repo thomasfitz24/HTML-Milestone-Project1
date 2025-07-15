@@ -170,7 +170,6 @@ footer {
   text-shadow: 0 0 8px white;
 }
 
-/* Responsive header layout */
 @media (max-width: 768px) {
   .header-top {
     flex-direction: column;
@@ -202,7 +201,6 @@ footer {
   }
 }
 
-/* About page styles */
 .about-container {
   max-width: 1000px;
   margin: 60px auto;
@@ -316,7 +314,6 @@ footer {
   background-color: #333;
 }
 
-/* Thank you */
 .thankyou-section {
   display: flex;
   flex-direction: column;
@@ -461,7 +458,6 @@ footer {
   background-color: #333;
 }
 
-/* Full product page layout */
 .full-products-page .product-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -518,7 +514,6 @@ footer {
     grid-template-columns: 1fr;
   }
 }
-/* Universal focus style */
 a:focus,
 button:focus,
 .learn-more-btn:focus,
@@ -528,7 +523,6 @@ button:focus,
   outline-offset: 4px;
   box-shadow: 0 0 10px white;
 }
-/* Focus style for header (white background) */
 header a:focus,
 header button:focus {
   outline: 2px solid black;
@@ -536,7 +530,6 @@ header button:focus {
   box-shadow: 0 0 6px black;
 }
 
-/* Focus style for dark sections (black or dark background buttons) */
 a:focus,
 button:focus,
 .learn-more-btn:focus,
