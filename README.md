@@ -204,6 +204,19 @@ Below is a summary of the key git commit messages documenting the step-by-step p
 <img width="837" height="493" alt="Screenshot 2025-07-15 at 16 31 37" src="https://github.com/user-attachments/assets/6b3cc5a7-0211-4cb2-8390-3356f926e01a" />
 
 I cleaned the about.html page by removing unnecessary roles and outdated self-closing tags to meet HTML5 standards. Then, I improved the contact.html page by fixing invalid roles and correcting void element formatting. I resolved an image loading issue by fixing the file name of our-story.png, removing spaces. The our-products.html page was cleaned by removing invalid footer roles and ensuring it passed HTML5 validation. Finally, I cleaned the thankyou.html page by removing redundant roles and fixing formatting errors to fully pass W3C validation. After all these fixes, I created the README.md file documenting the project.
+<img width="1892" height="961" alt="Screenshot 2025-07-15 at 16 53 11" src="https://github.com/user-attachments/assets/53f9f6f6-dc30-42f1-b2dd-58494955093e" />
+<img width="1902" height="865" alt="Screenshot 2025-07-15 at 16 52 09" src="https://github.com/user-attachments/assets/7bed5a20-b798-4c6d-8ac9-d2c38056b50d" />
+<img width="1858" height="588" alt="Screenshot 2025-07-15 at 16 51 20" src="https://github.com/user-attachments/assets/39d6ae0d-07eb-4b33-85b3-a698dbeb5d40" />
+<img width="1896" height="980" alt="Screenshot 2025-07-15 at 16 50 10" src="https://github.com/user-attachments/assets/d16b0a6b-f57f-4494-aedb-bd922dd0a24f" />
+<img width="1873" height="499" alt="Screenshot 2025-07-15 at 16 48 30" src="https://github.com/user-attachments/assets/ba523e40-e54c-410f-8708-2f1379fe7335" />
+<img width="1902" height="974" alt="Screenshot 2025-07-15 at 16 47 32" src="https://github.com/user-attachments/assets/38b9403e-badc-4795-8146-1c991dcbf7a1" />
+<img width="1445" height="200" alt="Screenshot 2025-07-15 at 16 45 45" src="https://github.com/user-attachments/assets/8f574af0-47de-46a1-b21b-94080767348e" />
+<img width="1902" height="986" alt="Screenshot 2025-07-15 at 16 44 27" src="https://github.com/user-attachments/assets/7ab071d0-55e6-4e5a-ba54-f6a0796a49ef" />
+<img width="1836" height="989" alt="Screenshot 2025-07-15 at 16 43 31" src="https://github.com/user-attachments/assets/8116b4c0-e7e4-4945-a66b-171cfdbf12d9" />
+<img width="1895" height="922" alt="Screenshot 2025-07-15 at 16 42 38" src="https://github.com/user-attachments/assets/037e663f-9f87-4939-b1fd-cbe65a1f8b3c" />
+<img width="1906" height="979" alt="Screenshot 2025-07-15 at 16 41 56" src="https://github.com/user-attachments/assets/f0dd9825-6ae3-47c6-bfa1-fc69c713e9ea" />
+<img width="1892" height="692" alt="Screenshot 2025-07-15 at 16 37 46" src="https://github.com/user-attachments/assets/c95fc845-6c19-4d26-8246-ccbaa64f6c69" />
+<img width="1928" height="930" alt="Screenshot 2025-07-15 at 16 34 40" src="https://github.com/user-attachments/assets/79a84702-2dd1-48fc-a4da-d4b7fbaa9483" />
 
 ---
 
