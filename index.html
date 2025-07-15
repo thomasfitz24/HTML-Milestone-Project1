@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Milestone Project</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
@@ -24,7 +24,7 @@
   </header>
   
   <div class="hero-banner">
-    <img src="images/Our story.png" alt="Interior styled room with warm tones" class="hero-image">
+    <img src="images/Our-story.png" alt="Interior styled room with warm tones" class="hero-image">
     <div class="hero-overlay">
       <h2 class="main-heading">Our Story</h2>
       <p class="main-description">We design beautiful interiors with warmth and elegance.</p>
@@ -67,26 +67,26 @@
     </div>
   </section> 
 
-<div id="videoModal" class="video-modal" role="dialog" aria-modal="true" tabindex="-1">
-  <div class="video-modal-content">
-    <span id="closeVideoBtn" class="close-button">&times;</span>
-    <video id="loomVideo" controls>
-      <source src="Loom-and-light.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
+  <!-- Video Modal -->
+  <div id="videoModal" class="video-modal" role="dialog" aria-modal="true" tabindex="-1">
+    <div class="video-modal-content">
+      <span id="closeVideoBtn" class="close-button">&times;</span>
+      <video id="loomVideo" controls>
+        <source src="Loom-and-light.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
   </div>
-</div>
- 
 
   <section class="contact-section" aria-labelledby="contact-heading">
     <h1 id="contact-heading">Contact Us</h1>
     <p>Our phone lines are often busy, so please email first.</p>
-    <form action="re.thankyou.html" method="GET" role="form">
+    <form action="re.thankyou.html" method="GET">
       <label for="name" class="sr-only">Your Name</label>
-      <input type="text" name="name" id="name" placeholder="Your Name" required />
+      <input type="text" name="name" id="name" placeholder="Your Name" required>
 
       <label for="email" class="sr-only">Your Email</label>
-      <input type="email" name="email" id="email" placeholder="Your Email" required />
+      <input type="email" name="email" id="email" placeholder="Your Email" required>
 
       <label for="message" class="sr-only">Your Message</label>
       <textarea name="message" id="message" placeholder="Your Message" required></textarea>
@@ -101,7 +101,7 @@
     <p><strong>Address:</strong> 22 Interior Lane, Durham, UK</p>
   </div>
   
-  <footer role="contentinfo">
+  <footer>
     <div class="footer-container">
       <div class="footer-left">
         <p>© 2025 Loom & Light. All rights reserved.</p>
@@ -113,24 +113,25 @@
       </div>
     </div>
   </footer>
+
   <script>
     const openBtn = document.getElementById('openVideoBtn');
     const closeBtn = document.getElementById('closeVideoBtn');
     const modal = document.getElementById('videoModal');
     const video = document.getElementById('loomVideo');
-  
+
     openBtn.addEventListener('click', () => {
       modal.style.display = 'flex';
       modal.focus(); 
       video.play();
     });
-  
+
     closeBtn.addEventListener('click', () => {
       modal.style.display = 'none';
       video.pause();
       video.currentTime = 0;
     });
-  
+
     window.addEventListener('click', (e) => {
       if (e.target === modal) {
         modal.style.display = 'none';
@@ -139,6 +140,5 @@
       }
     });
   </script>
-
-  </body>
-  </html>
+</body>
+</html>
