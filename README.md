@@ -202,12 +202,16 @@ Below is a summary of the key git commit messages documenting the step-by-step p
 94. Enhance video modal accessibility with ARIA roles and focus control  
 95. Moved 'Watch Our Story' button into hero overlay beside 'Learn More'
 <img width="837" height="493" alt="Screenshot 2025-07-15 at 16 31 37" src="https://github.com/user-attachments/assets/6b3cc5a7-0211-4cb2-8390-3356f926e01a" />
-97. Cleaned about.html: removed unnecessary roles and XHTML-style slashes  
-98. Cleaned contact.html: removed invalid roles and fixed void element formatting  
-99. Fixed invalid image filename by removing space in path (our-story.png)  
-100. Cleaned our-products.html: removed invalid footer role, ensured HTML5 validation  
-101. Cleaned thankyou.html for W3C validation: removed redundant roles, fixed formatting  
-102. Create README.md  
+97. Cleaned about.html: removed unnecessary roles and XHTML-style slashes
+98.  
+99. Cleaned contact.html: removed invalid roles and fixed void element formatting
+100.  
+101. Fixed invalid image filename by removing space in path (our-story.png)
+102. 
+103. Cleaned our-products.html: removed invalid footer role, ensured HTML5 validation
+104.   
+105. Cleaned thankyou.html for W3C validation: removed redundant roles, fixed formatting  
+106. Create README.md  
 
 ---
 
