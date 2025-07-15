@@ -211,7 +211,6 @@ I cleaned the about.html page by removing unnecessary roles and outdated self-cl
 <img width="1836" height="989" alt="Screenshot 2025-07-15 at 16 43 31" src="https://github.com/user-attachments/assets/7f1f00d2-a442-4488-ab6c-75870f4f2fe2" />
 <img width="1906" height="979" alt="Screenshot 2025-07-15 at 16 41 56" src="https://github.com/user-attachments/assets/d273e7ac-5f20-443e-908d-5f898fb28496" />
 <img width="1928" height="930" alt="Screenshot 2025-07-15 at 16 34 40" src="https://github.com/user-attachments/assets/c359885b-ac47-4c78-a79e-cbe8e7cc77e7" />
-<img width="837" height="493" alt="Screenshot 2025-07-15 at 16 31 37" src="https://github.com/user-attachments/assets/1a782f5a-b862-4f83-b070-b33c6cdc572a" />
 
 
 ---
