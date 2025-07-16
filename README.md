@@ -103,7 +103,7 @@ This project was built with a focus on accessibility and responsiveness. Semanti
 
 
 - **Responsive Design**  
-let responsive styles implemented and tested on iPhone and Samsung devices with no issues.
+responsive styles implemented and tested on iPhone and Samsung devices with no issues.
 <img width="543" height="922" alt="Screenshot 2025-07-15 at 17 01 59" src="https://github.com/user-attachments/assets/533e125a-0948-4d5f-a6ef-39fa2f83a3f2" />
 <img width="566" height="814" alt="Screenshot 2025-07-15 at 17 01 48" src="https://github.com/user-attachments/assets/c807ebe7-3d5e-46fc-933c-43e2e80737cb" />
 <img width="629" height="886" alt="Screenshot 2025-07-15 at 17 01 43" src="https://github.com/user-attachments/assets/505853f7-8df2-4ac7-b6c3-9a9e5412aa12" />
