@@ -212,6 +212,11 @@ I cleaned the about.html page by removing unnecessary roles and outdated self-cl
 <img width="1906" height="979" alt="Screenshot 2025-07-15 at 16 41 56" src="https://github.com/user-attachments/assets/d273e7ac-5f20-443e-908d-5f898fb28496" />
 <img width="1928" height="930" alt="Screenshot 2025-07-15 at 16 34 40" src="https://github.com/user-attachments/assets/c359885b-ac47-4c78-a79e-cbe8e7cc77e7" />
 
+Last issue 
+Initially, there were issues with my site files where certain media assets like the main hero image and video were not loading properly on the GitHub Pages live site, despite working correctly in my local VS Code environment. The problem was traced to incorrect file paths and naming inconsistencies in the HTML code, particularly related to capitalization and folder structure (e.g., image and video directories).
+
+After reviewing and correcting these file paths and filenames to exactly match the case-sensitive GitHub repository structure, the issues were resolved. The site now loads fully and functions correctly on the GitHub Pages server with all images and videos displaying as intended.
+
 
 ---
 
