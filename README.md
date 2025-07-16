@@ -18,7 +18,7 @@
 ---
 
 ## Overview  
-This project is a responsive, accessible, and visually elegant website for Loom & Light, a boutique interior design studio specializing in curated home décor essentials. The site includes the homepage, about, products, contact, and thank you pages. It features rich styling, accessibility considerations, and full cross-device responsiveness.
+This project is a responsive, accessible, and visually elegant website for Loom & Light, a boutique interior-design studio specializing in curated home decor essentials. The site includes the homepage, about, products, contact, and thank you pages. It features rich styling, accessibility considerations, and full cross-device responsiveness.
 
 The idea for this project stems from my background in SEO and several months of experience building websites for clients. I wanted to create a polished, professional site for myself that showcases my skills and design sensibilities.
 
@@ -38,7 +38,7 @@ The idea for this project stems from my background in SEO and several months of 
 ## Features & Highlights
 
 - Responsive design tested on iPhone and Samsung devices.  
-- Meaningful aria-labels on navigation and interactive elements.  
+- Meaningful ARIA-labels on navigation and interactive elements.  
 - Keyboard navigable with clear focus glow and tab order.  
 - Alt text on all images.  
 - Hover effects and underlines on contact info for clarity and usability.  
@@ -100,7 +100,7 @@ The idea for this project stems from my background in SEO and several months of 
 
 - Logo left-aligned, links to homepage
 - Navigation right-aligned
-- Accessible tab order, aria-labels on navigation links
+- Accessible tab order, ARIA-labels on navigation links
 
 ---
 
@@ -151,7 +151,7 @@ The idea for this project stems from my background in SEO and several months of 
 +---------------------------------------------------------------+
 
 
-- Accessible modal with focus trap and aria attributes
+- Accessible modal with focus trap and ARIA attributes
 - Opens when “Watch Our Story” button is clicked
 - Includes standard video controls (play, pause)
 - Closing the modal pauses and resets the video
@@ -200,7 +200,7 @@ The idea for this project stems from my background in SEO and several months of 
 +---------------------------------------------------------------+
 
 
-- Social links open in new tabs with appropriate aria-labels
+- Social links open in new tabs with appropriate ARIA-labels
 - Hover glow effect for interactive feedback
 - Responsive layout stacks links vertically on smaller screens
 
@@ -254,7 +254,7 @@ responsive styles implemented and tested on iPhone and Samsung devices with no i
 <img width="532" height="799" alt="Screenshot 2025-07-15 at 17 02 28" src="https://github.com/user-attachments/assets/95397601-a6cf-4042-9e1e-b6d38b07a262" />
 <img width="601" height="759" alt="Screenshot 2025-07-15 at 17 02 19" src="https://github.com/user-attachments/assets/db205c31-3079-416f-b74b-b7116fe286dd" />
 
-- Meaningful aria-labels on navigation and interactive elements.
+- Meaningful ARIA-labels on navigation and interactive elements.
 - <img width="638" height="97" alt="Screenshot 2025-07-15 at 21 26 15" src="https://github.com/user-attachments/assets/e6ebd1f4-0b46-4f06-b10c-02391a94ae41" />
 
 - Keyboard navigable with clear focus glow and tab order.
