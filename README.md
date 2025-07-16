@@ -109,7 +109,7 @@ The idea for this project stems from my background in SEO and several months of 
 +---------------------------------------------------------------+
 | [Full-width background image: Interior styled room] |
 | |
-| [Overlay box centered] |
+| [Overlay box centred] |
 | - Heading: "Our Story" |
 | - Paragraph: "We design beautiful interiors with warmth..."|
 | - Buttons side-by-side: |
@@ -346,7 +346,7 @@ Below is a summary of the key git commit messages documenting the step-by-step p
 <img width="1916" height="846" alt="Screenshot 2025-07-14 at 17 05 38" src="https://github.com/user-attachments/assets/9c439816-2ca1-4d2e-a2e2-ad3d6642641a" />
 36. Created redirect thank you page and copied header/footer from other pages  
 37. Added thank-you message and home button to re.thankyou.html page  
-38. Styled thank you page with centered layout, white background, black text
+38. Styled thank you page with centred layout, white background, black text
 39.  <img width="1904" height="985" alt="Screenshot 2025-07-14 at 17 16 16" src="https://github.com/user-attachments/assets/1b227509-7131-4328-b5e8-8296d5abe975" />
 40. Changed 'Projects' to 'Our Products' in site navigation
 41. <img width="1916" height="309" alt="Screenshot 2025-07-14 at 17 18 41" src="https://github.com/user-attachments/assets/4ed8a935-ba02-4eb9-9f61-162ff34ef5c2" />
