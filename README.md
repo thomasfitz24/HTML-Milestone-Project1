@@ -8,7 +8,7 @@
 - [Accessibility Notes](#accessibility-notes)
 - [Development Notes & Workflow](#development-notes--workflow)
 - [Git Command Timeline](#git-command-timeline)
-- [Color Palette](#color-palette)
+- [Colour Palette ](#colour-palette)
 - [Wireframes](#wireframes)
 - [Design Rationale](#rationale)
 - [Credits](#credits)
@@ -74,7 +74,7 @@ The idea for this project stems from my background in SEO and several months of 
 
 ---
 
-## Color Palette
+## Colour Palette
 
 - Dark Background: #111111  
 - White Text: #FFFFFF  
