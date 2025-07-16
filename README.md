@@ -216,6 +216,9 @@ Last issue
 Initially, there were issues with my site files where certain media assets like the main hero image and video were not loading properly on the GitHub Pages live site, despite working correctly in my local VS Code environment. The problem was traced to incorrect file paths and naming inconsistencies in the HTML code, particularly related to capitalization and folder structure (e.g., image and video directories).
 
 After reviewing and correcting these file paths and filenames to exactly match the case-sensitive GitHub repository structure, the issues were resolved. The site now loads fully and functions correctly on the GitHub Pages server with all images and videos displaying as intended.
+<img width="768" height="251" alt="Screenshot 2025-07-16 at 01 15 07" src="https://github.com/user-attachments/assets/6e6aab38-4582-4d4f-a0b0-677b985df5cc" />
+<img width="945" height="378" alt="Screenshot 2025-07-16 at 01 14 06" src="https://github.com/user-attachments/assets/be9a600f-38f9-463a-8bae-2e947d401fa3" />
+
 
 
 ---
