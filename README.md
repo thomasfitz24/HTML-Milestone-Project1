@@ -74,7 +74,7 @@ The idea for this project stems from my background in SEO and several months of 
 
 ---
 
-## Colour Palette
+## color-palett
 
 - Dark Background: #111111  
 - White Text: #FFFFFF  
