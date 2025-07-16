@@ -42,7 +42,7 @@ The idea for this project stems from my background in SEO and several months of 
 - Keyboard navigable with clear focus glow and tab order.  
 - Alt text on all images.  
 - Hover effects and underlines on contact info for clarity and usability.  
-- Visual & UX Enhancements including video modal popup and button styles.  
+- Visual & UX Enhancements including video modal pop‑up and button styles.  
 - Clean semantic markup validated with W3C Validator, zero errors.
 
 ---
@@ -57,7 +57,7 @@ The idea for this project stems from my background in SEO and several months of 
 - Implemented responsive styling tested thoroughly on iPhone and Samsung devices with Chrome DevTools and real devices.  
 - Improved header layout by aligning logo and page heading on the same line, removing slogan for a cleaner look.  
 - Added hover glow effects on social icons and underline hover effects on contact info for better UX.  
-- Developed an accessible video modal popup with ARIA attributes and keyboard focus control for "Watch Our Story."  
+- Developed an accessible video modal pop‑up with ARIA attributes and keyboard focus control for "Watch Our Story."  
 - Conducted extensive W3C validation for all pages and fixed all HTML and CSS errors.  
 - Managed a total of 67 git commits detailing iterative improvements and fixes.
 
@@ -403,10 +403,10 @@ Below is a summary of the key git commit messages documenting the step-by-step p
 <img width="1856" height="953" alt="Screenshot 2025-07-14 at 21 27 07" src="https://github.com/user-attachments/assets/045433af-99aa-4287-a7f4-1364e575d71e" />
 88. Final commit: Milestone 1 project complete with accessibility, layout, and styling  
 89. Renamed file to 'our-products.html' to follow correct naming conventions  
-90. Created interactive video popup with modal and styling
-91  Added the video styling for popup modal 
+90. Created interactive video pop‑up with modal and styling
+91  Added the video styling for pop‑up modal 
 <img width="1134" height="647" alt="Screenshot 2025-07-15 at 16 13 10" src="https://github.com/user-attachments/assets/4dde135b-d329-4e73-805e-7776b99bcfa3" />
-93. All video popup functionality implemented and working as intended  
+93. All video pop‑up functionality implemented and working as intended  
 94. Enhance video modal accessibility with ARIA roles and focus control  
 95. Moved 'Watch Our Story' button into hero overlay beside 'Learn More'
 <img width="837" height="493" alt="Screenshot 2025-07-15 at 16 31 37" src="https://github.com/user-attachments/assets/6b3cc5a7-0211-4cb2-8390-3356f926e01a" />
