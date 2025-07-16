@@ -74,7 +74,7 @@ The idea for this project stems from my background in SEO and several months of 
 
 ---
 
-## color-palett
+## Color Palette
 
 - Dark Background: #111111  
 - White Text: #FFFFFF  
@@ -206,7 +206,7 @@ The idea for this project stems from my background in SEO and several months of 
 
 ---
 
-## Mobile and Tablet Consideration
+## Mobile and Tablet Considerations
 
 - Navigation collapses into hamburger menu on small screens
 - Hero banner text and buttons scale for readability
@@ -295,7 +295,8 @@ responsive styles implemented and tested on iPhone and Samsung devices with no i
 
 ---
 
-## Git Commit Timeline  
+## Git Command Timeline
+ 
 
 Below is a summary of the key git commit messages documenting the step-by-step progress:
 
