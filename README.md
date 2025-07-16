@@ -1,5 +1,18 @@
 # Loom & Light — Project README
 
+## Table of Contents
+- [Overview](#overview)
+- [User Stories](#user-stories)
+- [Features & Highlights](#features--highlights)
+- [Development Notes & Workflow](#development-notes--workflow)
+- [Colour Palette](#colour-palette)
+- [Wireframes](#wireframes)
+- [Rationale](#rationale)
+- [Credits](#credits)
+- [Final Notes](#final-notes)
+
+---
+
 ## Overview  
 This project is a responsive, accessible, and visually elegant website for Loom & Light, a boutique interior design studio specializing in curated home décor essentials. The site includes homepage, about, products, contact, and thank you pages. It features rich styling, accessibility considerations, and full cross-device responsiveness.
 
@@ -7,7 +20,87 @@ The idea for this project stems from my background in SEO and several months of 
 
 ---
 
+## User Stories
+
+- As a visitor, I want to learn about Loom & Light so that I can understand their interior design philosophy.
+- As a customer, I want to browse products easily to find decor items I like.
+- As a user, I want the site to be accessible on mobile devices so I can browse anywhere.
+- As a user with accessibility needs, I want clear navigation with ARIA labels and keyboard support.
+- As a visitor, I want to watch a video about the company without leaving the homepage.
+- As a visitor, I want to contact the company easily via a form or email.
+
+---
+
 ## Features & Highlights
+
+- Responsive design tested on iPhone and Samsung devices.  
+- Meaningful aria-labels on navigation and interactive elements.  
+- Keyboard navigable with clear focus glow and tab order.  
+- Alt text on all images.  
+- Hover effects and underlines on contact info for clarity and usability.  
+- Visual & UX Enhancements including video modal popup and button styles.  
+- Clean semantic markup validated with W3C Validator, zero errors.
+
+---
+
+## Development Notes & Workflow
+
+- Started with basic site structure: added header, navigation, and placeholder logo.
+- Faced image loading issues early on due to incorrect file paths; fixed by correcting filenames and paths.
+- Developed the About page with detailed content and improved styling for readability. 
+- Added Contact page with form and redirect to a thank you page; enhanced with styling and accessibility features.  
+- Created a product section on the homepage and a dedicated products page; fixed image loading issues by correcting file names.  
+- Implemented responsive styling tested thoroughly on iPhone and Samsung devices with Chrome DevTools and real devices.  
+- Improved header layout by aligning logo and page heading on the same line, removing slogan for a cleaner look.  
+- Added hover glow effects on social icons and underline hover effects on contact info for better UX.  
+- Developed an accessible video modal popup with ARIA attributes and keyboard focus control for "Watch Our Story."  
+- Conducted extensive W3C validation for all pages and fixed all HTML and CSS errors.  
+- Managed a total of 67 git commits detailing iterative improvements and fixes.
+
+- Tried getting the logo to fit better but had problems with empty PNG whitespace, so I removed the slogan and altered code to place headings and logo on the same line with the heading right-aligned, which improved the layout.  
+- Added the contact form to the bottom of the homepage, updated the contact page to note phone line busy status, added styled contact info below, and added social media tags.  
+- Added the product page section at the bottom of the homepage but initially had issues with icons not working; resolved these by correcting image filenames and paths.  
+- Styled product section to keep all products on one page with actual images, added "Explore Collection" heading and "View Products" button, then built a dedicated product page with styled descriptions.  
+- Adjusted product layouts multiple times to improve fit and styling, ensured "Order Now" buttons correctly link to the contact page, and added a logo to the side for branding consistency.  
+- Enhanced social tags with glow effects on hover, updated contact info with underline on hover and improved accessibility for impaired users, including proper labeling for images and buttons and tab navigation glow.  
+- Added the video and button to meet pass requirements, repositioned the "Watch Our Story" button beside the "Learn More" button for better UX.  
+- Performed W3C testing on all page styles and fixed all HTML errors on the about, contact, homepage, product, and thank you pages.  
+- Implemented mobile and tablet responsive code across all styling, tested on Chrome DevTools with iPhone and Samsung emulations and confirmed no mobile issues; project complete.
+
+
+---
+
+## Colour Palette
+
+- Dark Background: #111111  
+- White Text: #FFFFFF  
+- Primary Buttons & Links: #000000  
+- Header Background: #FFFFFF  
+- Button Hover/Focus Glow: Subtle white glow
+
+---
+
+## Wireframes
+
+> Wireframes were designed for homepage, product listings, contact, and about pages to guide layout and user experience.
+
+---
+
+## Rationale
+
+This project was built with a focus on accessibility and responsiveness. Semantic HTML5 and ARIA roles were used to enhance usability. The design emphasizes a clean, modern aesthetic, optimized for both desktop and mobile users. Careful attention was given to file naming and folder structure to avoid issues with case sensitivity on GitHub Pages hosting.
+
+---
+
+## Credits
+
+- Inspired by Code Institute Milestone 1 project requirements.  
+- Video modal script adapted from online tutorials.  
+- Images and icons sourced from royalty-free collections.  
+- Thanks to mentors and peer reviewers for guidance.
+
+---
+
 
 - **Responsive Design**  
 let responsive styles implemented and tested on iPhone and Samsung devices with no issues.
@@ -59,32 +152,6 @@ let responsive styles implemented and tested on iPhone and Samsung devices with 
 <img width="1906" height="979" alt="Screenshot 2025-07-15 at 16 41 56" src="https://github.com/user-attachments/assets/7fff3074-be22-4a2b-98f1-082fbaeb178d" />
 <img width="1892" height="692" alt="Screenshot 2025-07-15 at 16 37 46" src="https://github.com/user-attachments/assets/a4ab38d9-9466-4d84-8224-e3044fe87aea" />
 <img width="1928" height="930" alt="Screenshot 2025-07-15 at 16 34 40" src="https://github.com/user-attachments/assets/74811962-3124-4681-9904-66eb4517edd4" />
-
----
-
-## Development Notes & Workflow
-
-- Started with basic site structure: added header, navigation, and placeholder logo.
-- Faced image loading issues early on due to incorrect file paths; fixed by correcting filenames and paths.
-- Developed the About page with detailed content and improved styling for readability. 
-- Added Contact page with form and redirect to a thank you page; enhanced with styling and accessibility features.  
-- Created a product section on the homepage and a dedicated products page; fixed image loading issues by correcting file names.  
-- Implemented responsive styling tested thoroughly on iPhone and Samsung devices with Chrome DevTools and real devices.  
-- Improved header layout by aligning logo and page heading on the same line, removing slogan for a cleaner look.  
-- Added hover glow effects on social icons and underline hover effects on contact info for better UX.  
-- Developed an accessible video modal popup with ARIA attributes and keyboard focus control for "Watch Our Story."  
-- Conducted extensive W3C validation for all pages and fixed all HTML and CSS errors.  
-- Managed a total of 67 git commits detailing iterative improvements and fixes.
-
-- Tried getting the logo to fit better but had problems with empty PNG whitespace, so I removed the slogan and altered code to place headings and logo on the same line with the heading right-aligned, which improved the layout.  
-- Added the contact form to the bottom of the homepage, updated the contact page to note phone line busy status, added styled contact info below, and added social media tags.  
-- Added the product page section at the bottom of the homepage but initially had issues with icons not working; resolved these by correcting image filenames and paths.  
-- Styled product section to keep all products on one page with actual images, added "Explore Collection" heading and "View Products" button, then built a dedicated product page with styled descriptions.  
-- Adjusted product layouts multiple times to improve fit and styling, ensured "Order Now" buttons correctly link to the contact page, and added a logo to the side for branding consistency.  
-- Enhanced social tags with glow effects on hover, updated contact info with underline on hover and improved accessibility for impaired users, including proper labeling for images and buttons and tab navigation glow.  
-- Added the video and button to meet pass requirements, repositioned the "Watch Our Story" button beside the "Learn More" button for better UX.  
-- Performed W3C testing on all page styles and fixed all HTML errors on the about, contact, homepage, product, and thank you pages.  
-- Implemented mobile and tablet responsive code across all styling, tested on Chrome DevTools with iPhone and Samsung emulations and confirmed no mobile issues; project complete.
 
 ---
 
@@ -219,22 +286,10 @@ After reviewing and correcting these file paths and filenames to exactly match t
 <img width="768" height="251" alt="Screenshot 2025-07-16 at 01 15 07" src="https://github.com/user-attachments/assets/6e6aab38-4582-4d4f-a0b0-677b985df5cc" />
 <img width="945" height="378" alt="Screenshot 2025-07-16 at 01 14 06" src="https://github.com/user-attachments/assets/be9a600f-38f9-463a-8bae-2e947d401fa3" />
 
-
-
----
-
-## Colors Used
-
-- **Dark Background:** #111111  
-- **White Text:** #FFFFFF  
-- **Primary Buttons & Links:** #000000 (Black)  
-- **Header Background:** #FFFFFF (White)  
-- **Button Hover/Focus Glow:** Subtle white glow  
-
 ---
 
 ## Final Notes
 
 This project is now complete with no outstanding validation issues or device compatibility problems. The codebase is clean, accessible, and well-structured, ready for deployment or future expansion.
 
----
+
