@@ -4,12 +4,16 @@
 - [Overview](#overview)
 - [User Stories](#user-stories)
 - [Features & Highlights](#features--highlights)
+- [Mobile and Tablet Considerations](#mobile-and-tablet-considerations)
+- [Accessibility Notes](#accessibility-notes)
 - [Development Notes & Workflow](#development-notes--workflow)
-- [Colour Palette](#colour-palette)
+- [Git Command Timeline](#git-command-timeline)
+- [Color Palette](#color-palette)
 - [Wireframes](#wireframes)
-- [Rationale](#rationale)
+- [Design Rationale](#rationale)
 - [Credits](#credits)
 - [Final Notes](#final-notes)
+
 
 ---
 
