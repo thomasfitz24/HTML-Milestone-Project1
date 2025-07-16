@@ -14,7 +14,7 @@
 ---
 
 ## Overview  
-This project is a responsive, accessible, and visually elegant website for Loom & Light, a boutique interior design studio specializing in curated home décor essentials. The site includes homepage, about, products, contact, and thank you pages. It features rich styling, accessibility considerations, and full cross-device responsiveness.
+This project is a responsive, accessible, and visually elegant website for Loom & Light, a boutique interior design studio specializing in curated home décor essentials. The site includes the homepage, about, products, contact, and thank you pages. It features rich styling, accessibility considerations, and full cross-device responsiveness.
 
 The idea for this project stems from my background in SEO and several months of experience building websites for clients. I wanted to create a polished, professional site for myself that showcases my skills and design sensibilities.
 
@@ -214,7 +214,7 @@ The idea for this project stems from my background in SEO and several months of 
 
 ## Accessibility Notes
 
-- ARIA roles and labels applied to navigation, modal dialogs, and form elements
+- ARIA roles and labels applied to navigation, Modal dialogs, and form elements
 - Keyboard navigable with clear focus states for links, buttons, and inputs
 - Meaningful alt text on all images describing content
 - Video modal traps keyboard focus and returns it on close
