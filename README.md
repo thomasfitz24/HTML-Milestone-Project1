@@ -83,7 +83,143 @@ The idea for this project stems from my background in SEO and several months of 
 ## Wireframes
 
 > Wireframes were designed for homepage, product listings, contact, and about pages to guide layout and user experience.
+# Loom & Light — Website Wireframe
 
+---
+
+## 1. Header (Sticky/Fixed)
+
++---------------------------------------------------------------+
+| LOGO (clickable) | Home | About | Products | Contact |
++---------------------------------------------------------------+
+
+
+- Logo left-aligned, links to homepage
+- Navigation right-aligned
+- Accessible tab order, aria-labels on navigation links
+
+---
+
+## 2. Hero Banner
+
++---------------------------------------------------------------+
+| [Full-width background image: Interior styled room] |
+| |
+| [Overlay box centered] |
+| - Heading: "Our Story" |
+| - Paragraph: "We design beautiful interiors with warmth..."|
+| - Buttons side-by-side: |
+| [Learn More] [Watch Our Story (opens video modal)] |
++---------------------------------------------------------------+
+
+
+- Background image with a semi-transparent dark overlay for readability
+- Buttons are accessible and visible on all devices
+
+---
+
+## 3. Products Section
+
++---------------------------------------------------------------+
+| Section Heading: "Our Products" |
++---------------------------------------------------------------+
+| Grid layout: |
+| [Lighting] [Pots] [Furniture] |
+| [Rugs] [Wall Art] [Accessories] |
++---------------------------------------------------------------+
+| Description paragraph below grid |
+| Button: [View Products] |
++---------------------------------------------------------------+
+
+
+- Responsive grid that adjusts columns based on screen size (desktop, tablet, mobile)
+- Each product box contains an image and label
+- “View Products” button links to full product listing page
+
+---
+
+## 4. Video Modal (Hidden by Default)
+
++---------------------------------------------------------------+
+| [Modal dialog] |
+| - Close button [×] top-right |
+| - Embedded video player |
++---------------------------------------------------------------+
+
+
+- Accessible modal with focus trap and aria attributes
+- Opens when “Watch Our Story” button is clicked
+- Includes standard video controls (play, pause)
+- Closing the modal pauses and resets the video
+
+---
+
+## 5. Contact Section
+
++---------------------------------------------------------------+
+| Heading: "Contact Us" |
+| Subheading: "Our phone lines are often busy, please email..." |
+| |
+| [Contact Form] |
+| - Input: Your Name (required) |
+| - Input: Your Email (required) |
+| - Textarea: Your Message (required) |
+| - Submit button: "Send Message" |
++---------------------------------------------------------------+
+
+
+- Form with proper labels for accessibility (including screen-reader-only labels)
+- Logical tab order and keyboard navigation
+- Form submits via GET method and redirects to a thank-you page
+
+---
+
+## 6. Contact Info Block
+
++---------------------------------------------------------------+
+| Email: info@loomandlight.com |
+| Phone: 0123 456 7890 |
+| Address: 22 Interior Lane, Durham, UK |
++---------------------------------------------------------------+
+
+
+- Email and phone are clickable links (mailto: and tel:)
+- Clear spacing for readability on all devices
+
+---
+
+## 7. Footer
+
++---------------------------------------------------------------+
+| © 2025 Loom & Light. All rights reserved. |
+| Social Links: Instagram | Pinterest | Facebook |
++---------------------------------------------------------------+
+
+
+- Social links open in new tabs with appropriate aria-labels
+- Hover glow effect for interactive feedback
+- Responsive layout stacks links vertically on smaller screens
+
+---
+
+## Mobile & Tablet Considerations
+
+- Navigation collapses into hamburger menu on small screens
+- Hero banner text and buttons scale for readability
+- Products grid adapts to 1 or 2 columns depending on viewport width
+- Contact form inputs stack vertically and fill available width
+- Footer social icons stack vertically on narrow screens
+
+---
+
+## Accessibility Notes
+
+- ARIA roles and labels applied to navigation, modal dialogs, and form elements
+- Keyboard navigable with clear focus states for links, buttons, and inputs
+- Meaningful alt text on all images describing content
+- Video modal traps keyboard focus and returns it on close
+
+---
 ---
 
 ## Rationale
