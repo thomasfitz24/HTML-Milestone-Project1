@@ -206,7 +206,7 @@ The idea for this project stems from my background in SEO and several months of 
 
 ---
 
-## Mobile & Tablet Considerations
+## Mobile and Tablet Consideration
 
 - Navigation collapses into hamburger menu on small screens
 - Hero banner text and buttons scale for readability
