@@ -86,71 +86,15 @@ The idea for this project stems from my background in SEO and several months of 
 
 ## Wireframes
 
-> Wireframes were designed for homepage, product listings, contact, and about pages to guide layout and user experience.
+> Wireframe design for homepage, product listings, contact, thank you, and about pages to guide layout and user experience.
 # Loom & Light — Website Wireframe
+<img width="1024" height="1536" alt="home" src="https://github.com/user-attachments/assets/14a5a01f-5c76-4b7f-a21a-6b4415a78133" />
+<img width="1024" height="1536" alt="about" src="https://github.com/user-attachments/assets/be52de60-176a-48cc-b746-7390cf7efe66" />
+<img width="1024" height="1536" alt="oriduct" src="https://github.com/user-attachments/assets/824fb5d0-c06e-45b2-bdd8-61a6431e653a" />
+<img width="1024" height="1536" alt="thank you" src="https://github.com/user-attachments/assets/9b7196d2-b1aa-4d90-a66a-6b2de35f78f1" />
+<img width="525" height="722" alt="Screenshot 2025-07-17 at 14 12 24" src="https://github.com/user-attachments/assets/2e17664b-a9be-4e15-8601-59f6442b2c07" />
 
 ---
-
-## 1. Header (Sticky/Fixed)
-
-+---------------------------------------------------------------+
-| LOGO (clickable) | Home | About | Products | Contact |
-+---------------------------------------------------------------+
-
-
-- Logo left-aligned, links to homepage
-- Navigation right-aligned
-- Accessible tab order, ARIA-labels on navigation links
-
----
-
-## 2. Hero Banner
-
-+---------------------------------------------------------------+
-| [Full-width background image: Interior styled room] |
-| |
-| [Overlay box centred] |
-| - Heading: "Our Story" |
-| - Paragraph: "We design beautiful interiors with warmth..."|
-| - Buttons side-by-side: |
-| [Learn More] [Watch Our Story (opens video modal)] |
-+---------------------------------------------------------------+
-
-
-- Background image with a semi-transparent dark overlay for readability
-- Buttons are accessible and visible on all devices
-
----
-
-## 3. Products Section
-
-+---------------------------------------------------------------+
-| Section Heading: "Our Products" |
-+---------------------------------------------------------------+
-| Grid layout: |
-| [Lighting] [Pots] [Furniture] |
-| [Rugs] [Wall Art] [Accessories] |
-+---------------------------------------------------------------+
-| Description paragraph below grid |
-| Button: [View Products] |
-+---------------------------------------------------------------+
-
-
-- Responsive grid that adjusts columns based on screen size (desktop, tablet, mobile)
-- Each product box contains an image and label
-- “View Products” button links to full product listing page
-
----
-
-## 4. Video Modal (Hidden by Default)
-
-+---------------------------------------------------------------+
-| [Modal dialog] |
-| - Close button [×] top-right |
-| - Embedded video player |
-+---------------------------------------------------------------+
-
-
 - Accessible modal with focus trap and ARIA attributes
 - Opens when “Watch Our Story” button is clicked
 - Includes standard video controls (play, pause)
